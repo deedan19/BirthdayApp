@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyBirthdayApp
 //
-//  Created by decagon on 12/03/2024.
+//  Created by Daniel Dennis on 12/03/2024.
 //
 
 import UIKit
